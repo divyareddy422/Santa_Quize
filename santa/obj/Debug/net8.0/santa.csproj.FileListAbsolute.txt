@@ -1,0 +1,14 @@
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\obj\Debug\net8.0\santa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\obj\Debug\net8.0\santa.AssemblyInfoInputs.cache
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\obj\Debug\net8.0\santa.AssemblyInfo.cs
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\obj\Debug\net8.0\santa.csproj.CoreCompileInputs.cache
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\bin\Debug\net8.0\santa.exe
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\bin\Debug\net8.0\santa.deps.json
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\bin\Debug\net8.0\santa.runtimeconfig.json
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\bin\Debug\net8.0\santa.dll
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\bin\Debug\net8.0\santa.pdb
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\obj\Debug\net8.0\santa.dll
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\obj\Debug\net8.0\refint\santa.dll
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\obj\Debug\net8.0\santa.pdb
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\obj\Debug\net8.0\santa.genruntimeconfig.cache
+C:\Users\YashS\OneDrive\Desktop\Divya\santa\obj\Debug\net8.0\ref\santa.dll
